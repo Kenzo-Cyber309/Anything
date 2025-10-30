@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(25, 50, 85, 0.5);
+    color: rgb(0, 0, 70);
+}
+
+.Taskbar{
+    background-color: antiquewhite;
+    padding: 30px;
+}
+
+.Taskbar button{
+    color: rgb(35, 0, 117);
+    font-size: 20px;
+}
+
+.Taskbar button hover{
+    color: aqua;
+}
